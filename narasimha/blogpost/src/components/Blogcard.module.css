@@ -1,0 +1,37 @@
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 5px;
+}
+
+.card {
+    display: flex; 
+    flex-direction: column; 
+    border-radius: 16px  16px 16px 16px;
+    width: 272px;
+    box-shadow: 2px 7px 13px 0px rgba(0,0,0,0.2);
+    overflow: hidden; 
+    border-color: #000000;
+}
+.cardbody{
+    background-color: #43dfcd;
+    flex-grow: 1;
+    padding: 24px; 
+}
+.cardtitle{
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0px; 
+    padding: 0px; 
+}
+.cardtext{
+    line-height: 1.4;
+    margin: 10px 0px 0px 0px; 
+    font-size: 17px;
+    color: #000000;
+}
+        
