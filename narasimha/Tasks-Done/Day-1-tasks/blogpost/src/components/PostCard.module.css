@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.card {
+    width: 350px;
+    height: 420px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card:hover {
+    box-shadow: 5px 10px 20px grey;
+}
+
+.img {
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 2rem;
+}
+
+.blogTitle {
+    font-family: sans-serif;
+    background-color: lightblue;
+    padding: 1px 7px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.innerCard {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.desc {
+    margin-top: 10px;
+    font-family: sans-serif;
+    display: flex;
+    text-align: start;
+}
+
+.parent {
+    display: flex;
+    margin-top: 30px;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.link {
+    background-color: whitesmoke;
+    border: 1px solid lightblue;
+    color: black;
+    padding: 2px 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.link:hover {
+    background-color: dodgerblue;
+    color: white;
+}
+
+
+.heading{
+    background-color: blanchedalmond;
+    padding: 5px  10px;
+}
+
+.head_parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 50%;
+        height: auto;
+    }
+
+    .blogTitle {
+        font-size: 20px;
+    }
+
+    .desc {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1202px) {
+    .card {
+        width: 30%;
+        height: auto;
+    }
+
+}
+
+@media (max-width: 769px) {
+    .blogTitle {
+        font-size: 15px;
+    }
+
+}
