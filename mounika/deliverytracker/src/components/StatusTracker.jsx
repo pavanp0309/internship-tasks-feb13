@@ -1,7 +1,7 @@
 import React from 'react';
 
 const StatusTracker = ({ status }) => {
-  const steps = ["Placed", "Shipped", "Out for Delivery", "Delivered"];
+  const steps = ['Placed', 'Shipped', 'Out for Delivery', 'Delivered'];
   const currentStep = steps.indexOf(status);
 
   return (
@@ -9,7 +9,7 @@ const StatusTracker = ({ status }) => {
       {steps.map((step, index) => (
         <div
           key={index}
-          className={`progress-bar $ {index <= currentStep ? 'bg-success' : 'bg-light text-dark'}`}
+          className={`progress-bar ${index <= currentStep ? 'bg-success' : 'bg-light text-dark'}`}
           role="progressbar"
           style={{ width: `${100 / steps.length}%` }}
         >
@@ -20,4 +20,4 @@ const StatusTracker = ({ status }) => {
   );
 };
 
-export default StatusTracker;
+export default StatusTracker;
