@@ -1,0 +1,76 @@
+.card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 1.5rem;
+    width: 320px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+  
+  .showtimes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  
+  .pill {
+    padding: 0.4rem 1rem;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .morning {
+    background: #ffc107;
+  }
+  
+  .afternoon {
+    background: #2196f3;
+  }
+  
+  .evening {
+    background: #f44336;
+  }
+  
+  .premiere {
+    display: inline-block;
+    background: #6a1b9a;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    margin: 0.2rem;
+    font-size: 0.75rem;
+  }
+  
+  .free {
+    display: inline-block;
+    background: #43a047;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    margin: 0.2rem;
+    font-size: 0.75rem;
+  }
+  
+  .full {
+    display: inline-block;
+    background: #b71c1c;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    margin: 0.2rem;
+    font-size: 0.75rem;
+  }
+  
+  .now {
+    display: inline-block;
+    background: #ff6f00;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    margin: 0.2rem;
+    font-size: 0.75rem;
+  }
+  
