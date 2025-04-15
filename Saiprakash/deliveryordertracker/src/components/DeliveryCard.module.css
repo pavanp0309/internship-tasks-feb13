@@ -1,0 +1,82 @@
+.card {
+    background: #ffffff;
+    padding: 1.5rem;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    width: 320px;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  ul {
+    padding-left: 1rem;
+    margin-top: 0.5rem;
+  }
+  
+  .badgePaid {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    padding: 4px 10px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .badgeCod {
+    background-color: #fff8e1;
+    color: #ff8f00;
+    padding: 4px 10px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .badgeFailed {
+    background-color: #ffebee;
+    color: #d32f2f;
+    padding: 4px 10px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .statusBar {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+  }
+  
+  .step {
+    flex: 1;
+    text-align: center;
+    font-size: 0.85rem;
+    color: #999;
+    position: relative;
+  }
+  
+  .step::before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background: #ccc;
+    top: 50%;
+    left: 0;
+    z-index: 0;
+  }
+  
+  .step:first-child::before {
+    display: none;
+  }
+  
+  .step.active {
+    color: #4caf50;
+    font-weight: bold;
+  }
+  
