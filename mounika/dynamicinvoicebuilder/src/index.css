@@ -1,0 +1,12 @@
+/* Custom styles can be added here */
+body {
+  background-color: #fcfcfc;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+}
