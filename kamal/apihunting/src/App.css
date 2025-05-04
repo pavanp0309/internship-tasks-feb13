@@ -1,0 +1,9 @@
+input:focus {
+    outline: none; /* Removes default focus outline */
+    border-color: #0d6efd; /* Blue border */
+    box-shadow: 0 0 8px rgba(13, 110, 253, 0.6); /* Stronger glow effect */
+    background-color: #eaf3fd; /* Light blue background when focused */
+    transition: all 0.3s ease; /* Smooth transition for focus effects */
+    border-width: 2px; /* Slightly thicker border for more emphasis */
+  }
+  
