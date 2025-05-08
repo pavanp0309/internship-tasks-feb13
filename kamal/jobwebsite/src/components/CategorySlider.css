@@ -1,0 +1,19 @@
+.category-logos {
+    display: flex;
+    animation: scroll 20s linear infinite;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  /* If you want the second row to scroll a bit slower */
+  .category-logos:nth-child(2) {  /* .category-logos:nth-child(2) targets the second row specifically. */
+    animation-duration: 25s;
+  }
+  
