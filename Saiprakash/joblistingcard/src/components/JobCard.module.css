@@ -1,0 +1,79 @@
+.card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 600px;
+    border-radius: 8px;
+    background: #fefefe;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+  }
+  
+  .header h2 {
+    font-size: 1.25rem;
+    margin: 0;
+  }
+  
+  .header p {
+    margin: 0.25rem 0;
+    color: #555;
+  }
+  
+  .bookmark {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
+  .badge {
+    display: inline-block;
+    background-color: #e0e7ff;
+    color: #3730a3;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+  }
+  
+  .hot {
+    display: inline-block;
+    background-color: #fee2e2;
+    color: #b91c1c;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    margin-left: 0.5rem;
+  }
+  
+  .salary {
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .skill {
+    background-color: #f0f9ff;
+    color: #0369a1;
+    padding: 0.3rem 0.6rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+  
+  .date {
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    color: #666;
+  }
+  
