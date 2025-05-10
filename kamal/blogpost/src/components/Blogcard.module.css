@@ -1,0 +1,130 @@
+
+/* .parent { */
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 20px; */
+    /* display : flex;
+    flex-wrap : wrap;
+    justify-content: space-around;
+    gap: 20px;
+} */
+
+/* .main_heading{
+    text-align: center;
+}
+    
+.list {
+    display: flex;
+    gap: 30px;
+}
+
+.images{
+    height: 300px;
+    width: 500px;
+    border-radius: 15px;
+}
+
+.widthfordiv{
+    width: 400px;
+} */
+    
+
+.main_heading {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin: 20px 0;
+  }
+  
+  .parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 0 20px;
+  }
+  
+  .widthfordiv {
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .widthfordiv:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    border: 1px solid #3498db;
+    transition: all 0.3s ease;
+  }
+  
+  .images {
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .list li {
+    background-color: #d1ecf1;
+    color: #0c5460;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+  }
+  
+  h2 {
+    font-size: 1.3rem;
+    color: #34495e;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 768px) {
+    .parent {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .widthfordiv {
+      width: 90%;
+    }
+  
+    .main_heading {
+      font-size: 2rem;
+    }
+  }
+  

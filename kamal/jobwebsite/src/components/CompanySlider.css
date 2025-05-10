@@ -1,0 +1,33 @@
+.company-slider-container {
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .company-logos {
+    display: flex;
+    animation: scroll 20s linear infinite;
+  }
+
+/* 20s: This defines the duration of the animation, meaning the entire scroll animation will take 20 seconds to complete one cycle.
+
+linear: This defines the timing function, meaning the animation progresses at a constant speed from start to finish.
+
+infinite: This ensures that the animation repeats infinitely (the logos will continuously scroll from right to left). */
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+/*  0% { transform: translateX(0); }:
+
+  This indicates the starting position of the container. At the beginning of the animation (at 0% of the animation), the container will be at its normal position (translateX(0) means no horizontal movement).
+  
+  100% { transform: translateX(-100%); }:
+  
+  This defines the final position of the container. At the end of the animation (at 100% of the animation), the entire container will have moved to the left by 100% of its width (translateX(-100%)). This will cause the logos to move completely out of view from right to left. */
+  

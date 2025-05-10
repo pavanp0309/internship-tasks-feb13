@@ -1,0 +1,616 @@
+{
+  "activejobs": [
+    {
+      "id": "0",
+      "Role": "Software Development Engineer",
+      "Name": "Amazon",
+      "Rating": 4.1,
+      "Reviews": 25590,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyITgyNP2_U_ogNb9_TknsLJpivZ607gvow&s",
+      "Exp": {
+        "From": 0,
+        "To": 7
+      },
+      "Location": "Hyderabad",
+      "Content": [
+        "Build scalable and efficient systems for Amazon cloud services.",
+        "Contribute to software architecture design and reviews.",
+        "Improve performance of existing infrastructure and systems.",
+        "Work on full-stack development and RESTful APIs.",
+        "Collaborate with cross-functional teams to deliver projects."
+      ],
+      "Skills": [
+        "Procurement",
+        "Retail",
+        "Purchase",
+        "B2B",
+        "Web Services",
+        "Architectural Design"
+      ],
+      "Responsibilities": "Develop, test, and maintain scalable software solutions; work closely with product teams to translate business requirements into system design.",
+      "Qualifications": "Bachelor's degree in Computer Science or related field. Proficient in Java, C++, or Python.",
+      "Salary": "₹18-25 LPA",
+      "Posted": 11,
+      "AboutCompany": "Amazon is a global technology and e-commerce leader headquartered in Seattle. Our mission is to be Earth’s most customer-centric company, driven by innovation and operational excellence. We design solutions that simplify everyday life—from Alexa to AWS.\n\nOur teams thrive on big challenges and bring products to life for millions of customers worldwide. At Amazon, we believe in long-term thinking and customer obsession. Whether it’s building scalable systems or pioneering drone deliveries, we embrace change and bold ideas.\n\nOur Hyderabad office is one of the major global tech hubs, focused on product development, AI/ML, and global infrastructure.",
+      "OurServicesInclude": [
+        "Cloud Computing (AWS)",
+        "E-commerce and Retail Innovation",
+        "Artificial Intelligence and Machine Learning",
+        "Logistics and Supply Chain Solutions",
+        "Digital Streaming and Devices"
+      ],
+      "CompanyInfo": {
+        "Address": "Amazon Development Center, HiTech City, Hyderabad, India"
+      }
+    },
+    {
+      "id": "1",
+      "Role": "Frontend Developer",
+      "Name": "Google",
+      "Rating": 4.5,
+      "Reviews": 31200,
+      "img": "https://logowik.com/content/uploads/images/985_google_g_icon.jpg",
+      "Exp": {
+        "From": 2,
+        "To": 8
+      },
+      "Location": "Bangalore",
+      "Content": [
+        "Design and develop responsive web interfaces using React.js.",
+        "Ensure accessibility and performance across all devices.",
+        "Collaborate with designers and backend engineers.",
+        "Optimize applications for maximum speed.",
+        "Follow clean design principles and ensure cross-browser compatibility."
+      ],
+      "Skills": [
+        "React.js",
+        "JavaScript",
+        "Material UI",
+        "Next.js",
+        "Cloud Services"
+      ],
+      "Responsibilities": "Create pixel-perfect UI components; collaborate with backend engineers and designers.",
+      "Qualifications": "Bachelor’s degree in CS or equivalent. 2+ years in React.js and related tools.",
+      "Salary": "₹22-30 LPA",
+      "Posted": 5,
+      "AboutCompany": "Google is a global technology company whose mission is to organize the world’s information and make it universally accessible and useful. With products like Search, Gmail, YouTube, and Android, we impact billions every day.\n\nWe’re known for innovation, scale, and cutting-edge research. At Google, developers shape the future of the internet and beyond.\n\nOur Bangalore office focuses on UX/UI research, frontend and backend product development, and Google Cloud expansion.",
+      "OurServicesInclude": [
+        "Search and Information Retrieval",
+        "Cloud Infrastructure (GCP)",
+        "Mobile Operating Systems",
+        "Enterprise Software Solutions",
+        "Digital Advertising and Marketing Tools"
+      ],
+      "CompanyInfo": {
+        "Address": "Google India Pvt Ltd, RMZ Infinity, Old Madras Road, Bangalore, India"
+      }
+    },
+    {
+      "id": "2",
+      "Role": "Data Scientist",
+      "Name": "Microsoft",
+      "Rating": 4.3,
+      "Reviews": 27800,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "Exp": {
+        "From": 3,
+        "To": 10
+      },
+      "Location": "Hyderabad",
+      "Content": [
+        "Analyze large datasets for insights and predictions.",
+        "Develop and deploy ML and DL models at scale.",
+        "Work on intelligent services for customer analytics.",
+        "Build forecasting models using statistical techniques.",
+        "Use Azure cloud tools for analytics pipelines."
+      ],
+      "Skills": [
+        "Python",
+        "Machine Learning",
+        "AI",
+        "Azure",
+        "Deep Learning"
+      ],
+      "Responsibilities": "Model business problems into ML pipelines; work with big data tools; ensure model interpretability and reproducibility.",
+      "Qualifications": "Master’s/PhD in Data Science, Computer Science, or Mathematics.",
+      "Salary": "₹28-35 LPA",
+      "Posted": 9,
+      "AboutCompany": "Microsoft is a global leader in software, services, devices, and solutions that help people and businesses realize their full potential.\n\nFrom Windows to Azure, Microsoft empowers users through its innovative products. We invest heavily in AI and cloud computing to solve complex challenges.\n\nOur Hyderabad office is home to some of the finest research and engineering teams, working on next-gen productivity tools, Azure AI services, and enterprise software.\n\nWe foster an inclusive culture where innovation thrives.",
+      "OurServicesInclude": [
+        "Cloud Computing (Azure)",
+        "Office Productivity Software",
+        "AI & Cognitive Services",
+        "Developer Tools & Platforms",
+        "Security Solutions"
+      ],
+      "CompanyInfo": {
+        "Address": "Microsoft India (R&D), Gachibowli, Hyderabad, Telangana, India"
+      }
+    },
+    {
+      "id": "3",
+      "Role": "Cloud Engineer",
+      "Name": "IBM",
+      "Rating": 4,
+      "Reviews": 18900,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+      "Exp": {
+        "From": 1,
+        "To": 6
+      },
+      "Location": "Pune",
+      "Content": [
+        "Manage enterprise cloud deployments and clusters.",
+        "Automate infrastructure using Terraform and CI/CD tools.",
+        "Ensure cloud uptime, scalability, and cost efficiency.",
+        "Monitor system health and perform routine audits.",
+        "Troubleshoot infrastructure and network issues."
+      ],
+      "Skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "DevOps",
+        "Terraform"
+      ],
+      "Responsibilities": "Maintain and monitor cloud infrastructure; implement security and scalability solutions.",
+      "Qualifications": "Experience with DevOps pipelines and containerized environments.",
+      "Salary": "₹15-20 LPA",
+      "Posted": 3,
+      "AboutCompany": "IBM (International Business Machines) is one of the world’s largest IT companies, known for its contributions to computing and AI research.\n\nWith decades of experience in enterprise tech, IBM is focused on hybrid cloud, AI, and consulting services. Our Pune branch supports cloud engineering, cybersecurity, and platform deployment.\n\nWe strive to build smarter businesses through innovation and client-centric development. IBM empowers transformation through technology and services.",
+      "OurServicesInclude": [
+        "Hybrid Cloud Infrastructure",
+        "AI & Data Analytics",
+        "Enterprise Consulting",
+        "Security Solutions",
+        "Cloud Management Services"
+      ],
+      "CompanyInfo": {
+        "Address": "IBM India Pvt Ltd, Hinjewadi Phase 1, Pune, Maharashtra, India"
+      }
+    },
+    {
+      "id": "4",
+      "Role": "Cybersecurity Analyst",
+      "Name": "Cisco",
+      "Rating": 4.2,
+      "Reviews": 23000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSKlPmi9JhksBvBFNg1aXvrDwiqtSoE8tCA&s",
+      "Exp": {
+        "From": 2,
+        "To": 9
+      },
+      "Location": "Chennai",
+      "Content": [
+        "Protect enterprise-grade networks and systems from cyber threats.",
+        "Perform continuous monitoring of network traffic and systems.",
+        "Conduct threat hunting and identify potential vulnerabilities.",
+        "Respond to security incidents and mitigate breach impacts.",
+        "Ensure adherence to compliance and security protocols."
+      ],
+      "Skills": [
+        "Network Security",
+        "Threat Analysis",
+        "Firewalls",
+        "Penetration Testing"
+      ],
+      "Responsibilities": "Monitor traffic and logs; respond to breaches; conduct vulnerability assessments.",
+      "Qualifications": "Bachelor's in Cybersecurity or similar; certifications like CEH, CISSP preferred.",
+      "Salary": "₹18-24 LPA",
+      "Posted": 7,
+      "AboutCompany": "Cisco is a global leader in IT, networking, and cybersecurity solutions. With decades of experience, the company enables secure connections and transformative digital infrastructure for businesses. Cisco's innovations support thousands of organizations in building secure, scalable, and efficient networks. The company is dedicated to creating inclusive and sustainable technology solutions. Cisco promotes professional growth through constant learning and development. The Chennai branch plays a key role in cybersecurity R&D and global network operations. The organization is renowned for its workplace culture and employee satisfaction.",
+      "OurServicesInclude": [
+        "Network Infrastructure",
+        "Cybersecurity",
+        "Cloud Solutions",
+        "Collaboration Tools"
+      ],
+      "CompanyInfo": {
+        "Address": "Cisco Systems, DLF Cybercity, Block 1B, Mount Poonamallee Road, Manapakkam, Chennai, Tamil Nadu 600089"
+      }
+    },
+    {
+      "id": "5",
+      "Role": "AI Engineer",
+      "Name": "Tesla",
+      "Rating": 4.6,
+      "Reviews": 12500,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+      "Exp": {
+        "From": 4,
+        "To": 10
+      },
+      "Location": "Bangalore",
+      "Content": [
+        "Work on Tesla’s AI team for autonomous vehicle intelligence.",
+        "Design and train neural networks for perception and prediction.",
+        "Deploy real-time models for object detection and path planning.",
+        "Leverage large datasets to improve model accuracy and safety.",
+        "Simulate edge cases and test AI behavior in dynamic environments."
+      ],
+      "Skills": [
+        "AI",
+        "Deep Learning",
+        "Python",
+        "Computer Vision",
+        "Neural Networks"
+      ],
+      "Responsibilities": "Design DL models; handle data pipelines; optimize inference on edge devices.",
+      "Qualifications": "MS/PhD in AI, Robotics, or similar; strong Python & PyTorch skills.",
+      "Salary": "₹30-40 LPA",
+      "Posted": 2,
+      "AboutCompany": "Tesla is a trailblazing technology and automotive company known for its electric vehicles, energy solutions, and AI-driven innovation. The company’s Bangalore R&D division focuses on AI and software for autonomous driving systems. Tesla fosters a high-performance culture that empowers engineers to push boundaries. It leverages cutting-edge tools in robotics, computer vision, and deep learning. Employees work in fast-paced environments that emphasize innovation and impact. Tesla places strong emphasis on sustainability and smart mobility. Its mission is to accelerate the world’s transition to sustainable energy.",
+      "OurServicesInclude": [
+        "Autonomous Driving",
+        "Electric Vehicles",
+        "Energy Storage",
+        "AI Systems"
+      ],
+      "CompanyInfo": {
+        "Address": "Tesla India Motors, Prestige Tech Park II, Outer Ring Road, Bangalore, Karnataka 560103"
+      }
+    },
+    {
+      "id": "6",
+      "Role": "Software Engineer",
+      "Name": "Meta",
+      "Rating": 4.4,
+      "Reviews": 21000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6udi52RbDqhm0InRiH41c9Ymcf2l-X2EWtg&s",
+      "Exp": {
+        "From": 3,
+        "To": 8
+      },
+      "Location": "Remote",
+      "Content": [
+        "Join Meta’s remote team building real-time collaborative applications.",
+        "Work on scalable backends using microservices architecture.",
+        "Develop interactive and responsive frontends with modern frameworks.",
+        "Collaborate with cross-functional teams in a distributed environment.",
+        "Ensure code quality, performance, and maintainability of large systems."
+      ],
+      "Skills": [
+        "React",
+        "GraphQL",
+        "JavaScript",
+        "TypeScript",
+        "Node.js"
+      ],
+      "Responsibilities": "Develop APIs and services; work across the stack; ensure performance optimization.",
+      "Qualifications": "3+ years full-stack experience with React and Node.",
+      "Salary": "₹26-32 LPA",
+      "Posted": 4,
+      "AboutCompany": "Meta is a global technology company leading innovations in social networking, virtual reality, and AI. The company enables billions to connect, communicate, and build communities. Its engineering teams are known for scalable, secure, and user-centric platforms. Meta encourages a culture of open collaboration, autonomy, and continuous learning. The remote division allows flexible work and cross-border collaboration. Engineers here build systems that power real-time interaction across apps. Meta is committed to building the future of immersive technologies and digital communication.",
+      "OurServicesInclude": [
+        "Social Platforms",
+        "Metaverse",
+        "AI Products",
+        "Collaborative Tools"
+      ],
+      "CompanyInfo": {
+        "Address": "Remote - Meta Platforms, Inc. (Work from Home)"
+      }
+    },
+    {
+      "id": "7",
+      "Role": "Blockchain Developer",
+      "Name": "Apple",
+      "Rating": 4.7,
+      "Reviews": 29000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "Exp": {
+        "From": 2,
+        "To": 7
+      },
+      "Location": "California",
+      "Content": [
+        "Design and implement decentralized applications and smart contracts.",
+        "Work with Ethereum, Solidity, and Hyperledger for secure transactions.",
+        "Develop and deploy blockchain protocols to ensure high security.",
+        "Focus on scaling blockchain networks and improving performance.",
+        "Conduct audits and optimize existing smart contract code."
+      ],
+      "Skills": [
+        "Blockchain",
+        "Ethereum",
+        "Solidity",
+        "Hyperledger",
+        "Cryptography"
+      ],
+      "Responsibilities": "Build smart contracts; conduct audits; work on DApp backends.",
+      "Qualifications": "Hands-on with Ethereum stack and strong cryptography knowledge.",
+      "Salary": "$150K–$180K",
+      "Posted": 6,
+      "AboutCompany": "Apple is a global leader in technology, revolutionizing the way people interact with technology. Known for its innovative products, Apple has developed the iPhone, iPad, Mac, and a suite of software that powers devices around the world. With a focus on seamless integration across hardware, software, and services, Apple continues to set the bar for user experience. The company promotes sustainability, privacy, and user-centric design. Apple’s California headquarters is a hub for innovation, fostering a creative environment for engineers to push the boundaries of technology. The company is a pioneer in areas like AR/VR, AI, and blockchain technology.",
+      "OurServicesInclude": [
+        "Consumer Electronics",
+        "Software Development",
+        "Cloud Services",
+        "Blockchain Innovation"
+      ],
+      "CompanyInfo": {
+        "Address": "Apple Inc., 1 Infinite Loop, Cupertino, California 95014, USA"
+      }
+    },
+    {
+      "id": "8",
+      "Role": "DevOps Engineer",
+      "Name": "Netflix",
+      "Rating": 4.3,
+      "Reviews": 19500,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg",
+      "Exp": {
+        "From": 2,
+        "To": 6
+      },
+      "Location": "Mumbai",
+      "Content": [
+        "Manage CI/CD pipelines for Netflix’s streaming infrastructure.",
+        "Ensure deployment automation and system monitoring for high availability.",
+        "Implement reliability engineering practices for smooth system operation.",
+        "Work with cloud-native infrastructure and distributed systems.",
+        "Monitor system health and reduce downtime in Netflix’s services."
+      ],
+      "Skills": [
+        "CI/CD",
+        "Jenkins",
+        "Kubernetes",
+        "AWS",
+        "Monitoring"
+      ],
+      "Responsibilities": "Build pipelines; monitor system health; reduce system downtime.",
+      "Qualifications": "Experience with cloud-native infrastructure and DevOps culture.",
+      "Salary": "₹22-28 LPA",
+      "Posted": 8,
+      "AboutCompany": "Netflix is the world’s leading streaming entertainment service, with millions of subscribers across the globe. Known for its massive library of movies, TV shows, and original content, Netflix is revolutionizing the entertainment industry. The company invests heavily in technology to deliver a seamless viewing experience. Netflix’s engineering teams work on large-scale systems, utilizing cutting-edge cloud technologies, DevOps practices, and automation. The company fosters a culture of innovation, encouraging teams to experiment and build scalable solutions. Netflix Mumbai office contributes to the streaming infrastructure and global content delivery networks.",
+      "OurServicesInclude": [
+        "Video Streaming",
+        "Cloud Services",
+        "Content Creation",
+        "AI & Analytics"
+      ],
+      "CompanyInfo": {
+        "Address": "Netflix India, Netflix Office, 2nd Floor, Building 5, Millenia Tower, Cessna Business Park, Bengaluru, Karnataka 560037"
+      }
+    },
+    {
+      "id": "9",
+      "Role": "Backend Developer",
+      "Name": "Spotify",
+      "Rating": 4.5,
+      "Reviews": 17200,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "Exp": {
+        "From": 3,
+        "To": 9
+      },
+      "Location": "Berlin",
+      "Content": [
+        "Build and maintain scalable backend services for Spotify’s music recommendation engine.",
+        "Work on microservices architecture to ensure performance and scalability.",
+        "Collaborate with data teams to optimize algorithms and backend systems.",
+        "Ensure high availability and low-latency services for music streaming.",
+        "Write unit and integration tests for backend services to ensure reliability."
+      ],
+      "Skills": [
+        "Node.js",
+        "Microservices",
+        "PostgreSQL",
+        "Docker",
+        "Redis"
+      ],
+      "Responsibilities": "Build scalable services; write unit/integration tests; collaborate with data teams.",
+      "Qualifications": "Strong grasp of distributed computing and databases.",
+      "Salary": "€70K–€90K",
+      "Posted": 1,
+      "AboutCompany": "Spotify is a global leader in music streaming, providing users access to millions of songs, playlists, and podcasts. The company uses machine learning and data analytics to personalize music recommendations for users worldwide. Spotify’s Berlin office is pivotal in building scalable, high-performance backend services. The engineering teams focus on developing innovative tools for music discovery and optimizing streaming quality. Spotify values creativity and autonomy, with employees encouraged to experiment with new features and technologies. The company is committed to delivering a seamless music experience across all devices.",
+      "OurServicesInclude": [
+        "Music Streaming",
+        "Podcasting",
+        "AI Recommendations",
+        "Analytics"
+      ],
+      "CompanyInfo": {
+        "Address": "Spotify Technology S.A., 14 Rue A. Lavandier, 1210, Berlin, Germany"
+      }
+    },
+    {
+      "id": "1746336846034",
+      "Role": "Front End Developer",
+      "Name": "Google",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/480px-Google_%22G%22_logo.svg.png",
+      "Exp": {
+        "From": 2,
+        "To": 5
+      },
+      "Location": "Hyderabad",
+      "Content": [
+        "Protect enterprise-grade networks and systems from cyber threats. Perform continuous monitoring of network traffic and systems. Conduct threat hunting and identify potential vulnerabilities. Respond to security incidents and mitigate breach impacts. Ensure adherence to compliance and security protocols"
+      ],
+      "Skills": [
+        "html",
+        "js",
+        "css",
+        "bootstrap"
+      ],
+      "Salary": "Rs : 10 - 15 LPA",
+      "Posted": 4,
+      "Rating": 0,
+      "Reviews": 0,
+      "Responsibilities": "NOT APPLICABLE",
+      "Qualifications": "Bachelors Degree Mandatory",
+      "AboutCompany": "Refer Our Website",
+      "OurServicesInclude": [
+        "NA"
+      ],
+      "CompanyInfo": {
+        "Address": "Refer Our Website"
+      },
+      "postedBy": "Employer A"
+    },
+    {
+      "id": "1746336981195",
+      "Role": "Backend Developer",
+      "Name": "Google",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/480px-Google_%22G%22_logo.svg.png",
+      "Exp": {
+        "From": 5,
+        "To": 9
+      },
+      "Location": "Hyderabad",
+      "Content": [
+        "Join Meta’s remote team building real-time collaborative applications. Work on scalable backends using microservices architecture. Develop interactive and responsive frontends with modern frameworks. Collaborate with cross-functional teams in a distributed environment. Ensure code quality, performance, and maintainability of large systems."
+      ],
+      "Skills": [
+        "python",
+        "django",
+        "mysql"
+      ],
+      "Salary": "Rs : 15 - 20 LPA",
+      "Posted": 4,
+      "Rating": 0,
+      "Reviews": 0,
+      "Responsibilities": "NOT APPLICABLE",
+      "Qualifications": "Bachelors Degree Mandatory",
+      "AboutCompany": "Refer Our Website",
+      "OurServicesInclude": [
+        "NA"
+      ],
+      "CompanyInfo": {
+        "Address": "Refer Our Website"
+      },
+      "postedBy": "Employer A"
+    },
+    {
+      "id": "1746337358804",
+      "Role": "Full Stack Developer",
+      "Name": "Apple",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rIxFRNX2QZlnQidGjE75yAg9jR4Jhy3Jgw&s",
+      "Exp": {
+        "From": 7,
+        "To": 12
+      },
+      "Location": "Hyderabad",
+      "Content": [
+        "Design and develop responsive web interfaces using React.js. Ensure accessibility and performance across all devices. Collaborate with designers and backend engineers. Optimize applications for maximum speed. Follow clean design principles and ensure cross-browser compatibility."
+      ],
+      "Skills": [
+        "html",
+        "js",
+        "css",
+        "bootstrap",
+        "python",
+        "django",
+        "mysql",
+        "react"
+      ],
+      "Salary": "Rs : 25 - 35 LPA",
+      "Posted": 4,
+      "Rating": 0,
+      "Reviews": 0,
+      "Responsibilities": "NOT APPLICABLE",
+      "Qualifications": "Bachelors Degree Mandatory",
+      "AboutCompany": "Refer Our Website",
+      "OurServicesInclude": [
+        "NA"
+      ],
+      "CompanyInfo": {
+        "Address": "Refer Our Website"
+      },
+      "postedBy": "Employer B"
+    },
+    {
+      "id": "1746523237651",
+      "Role": "Software Engineer",
+      "Name": "Apple",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rIxFRNX2QZlnQidGjE75yAg9jR4Jhy3Jgw&s",
+      "Exp": {
+        "From": 0,
+        "To": 5
+      },
+      "Location": "Banglore",
+      "Content": [
+        "We are looking for a passionate Software Engineer to design, develop and install software solutions.",
+        "Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages, like Java, Ruby on Rails or .NET programming languages (e.g. C++ or JScript.NET.) Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment.",
+        "Ultimately, the role of the Software Engineer is to build high-quality, innovative and fully performing software that complies with coding standards and technical design."
+      ],
+      "Skills": [
+        "C",
+        "C++",
+        "Java",
+        "Python"
+      ],
+      "Salary": "Rs : 2 - 20 LPA",
+      "Posted": 6,
+      "Rating": 0,
+      "Reviews": 0,
+      "Responsibilities": "NOT APPLICABLE",
+      "Qualifications": "Bachelors Degree Mandatory",
+      "AboutCompany": "Refer Our Website",
+      "OurServicesInclude": [
+        "NA"
+      ],
+      "CompanyInfo": {
+        "Address": "Refer Our Website"
+      },
+      "postedBy": "Employer B"
+    },
+    {
+      "id": "1746731288022",
+      "Role": "Game Developer",
+      "Name": "Ubisoft",
+      "img": "https://lh6.googleusercontent.com/6mpFZHFKO95j4dfkvdoYK8_HwG57LVfvA-1LHISiQhgLCUI0sLdm2e5NAtc1ERXhoJw9ugKztZKdCNlZS2Kw9k6nQemMNKcjk0mSlsLWk0mK9Y2B5nj8fsD6gA416bcmjT-oNlXWZ5vRGWp4WDL0K88-hC_-BPxRVxu-qTNxsUrsdUyu4DveHyAgwfOKm11pyzI",
+      "Exp": {
+        "From": 2,
+        "To": 15
+      },
+      "Location": "US",
+      "Content": [
+        "In the game developer role, you will create high-level 2D and 3D graphics of game assets, such as characters, maps, scenery, and items. You will collaborate with a cross-functional team of game designers, artists, software developers, animators, and content developers to ensure overall alignment with game specifications and requests. Success in this role will be demonstrated by producing high-quality games and improving existing games to increase users, player retention, and in-game sales."
+      ],
+      "Skills": [
+        "Unreal Engine 5"
+      ],
+      "Salary": "Rs : 10 - 15 LPA",
+      "Posted": 9,
+      "Rating": 0,
+      "Reviews": 0,
+      "Responsibilities": "NOT APPLICABLE",
+      "Qualifications": "Bachelors Degree Mandatory",
+      "AboutCompany": "Refer Our Website",
+      "OurServicesInclude": [
+        "NA"
+      ],
+      "CompanyInfo": {
+        "Address": "Refer Our Website"
+      },
+      "postedBy": "Employer B"
+    }
+  ],
+  "employers": [
+    {
+      "id": "b908",
+      "name": "Employer A",
+      "employeeId": "753",
+      "company": "Google",
+      "role": "Software Developer",
+      "email": "EmpA@gmail.com",
+      "phone": "95",
+      "location": "Hyderabad",
+      "joined": "2025-05-04",
+      "password": "123"
+    },
+    {
+      "id": "f421",
+      "name": "Employer B",
+      "employeeId": "159",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "email": "empB@gmail.com",
+      "phone": "813",
+      "location": "Andhra",
+      "joined": "2025-05-02",
+      "password": "456"
+    }
+  ]
+}
